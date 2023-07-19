@@ -1,10 +1,9 @@
-#include "main.h"
-
+#include "main.h" 
 
 /** 
  *main-Entry point of my code .
  * 
- * Return: Always 0
+ * Return: Alwayii0
  */
 
 int main(void)
